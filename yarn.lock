@@ -173,7 +173,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@hotwired/turbo-rails@npm:^8.0.2":
+"@hotwired/turbo-rails@npm:^8.0.1":
   version: 8.0.2
   resolution: "@hotwired/turbo-rails@npm:8.0.2"
   dependencies:
@@ -202,7 +202,7 @@ __metadata:
   resolution: "app@workspace:."
   dependencies:
     "@hotwired/stimulus": "npm:^3.2.2"
-    "@hotwired/turbo-rails": "npm:^8.0.2"
+    "@hotwired/turbo-rails": "npm:^8.0.1"
     esbuild: "npm:^0.20.0"
   languageName: unknown
   linkType: soft
